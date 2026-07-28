@@ -1,3 +1,14 @@
+---
+layout: default
+title: Home
+---
+
+# Madiha Manzoor
+
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
+
+---
+
 # Applied Search Intelligence: Google Search Ranking & Discoverability
 
 ## Abstract
