@@ -5,70 +5,95 @@ title: Projects
 
 # Projects
 
-[Home](index.md) | [About](about.md) | [Experience](experience.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
----
+## 1. FlyRank Machine Learning Project
+**Applied Search Intelligence: Google Search Ranking & Discoverability**
 
-## Featured Project
-
-### Applied Search Intelligence (FlyRank ML Internship)
-
-A Machine Learning project developed during the FlyRank AI Fluency Internship.
-
-**Key Highlights**
-
-- Decision Tree Classification
-- Search Performance Analysis
-- Data Validation
-- Explainable AI
-- SEO Optimization Recommendations
-
-**Tools Used**
-
-- Python
-- Google Colab
-- GitHub
-- Machine Learning
-- Data Analysis
+- Built during the FlyRank Machine Learning Internship.
+- Developed a Decision Tree model using search performance data.
+- Worked with impressions, average position, scroll events and CTR.
+- Compared model performance with a baseline approach.
+- Achieved approximately 89% prediction accuracy.
+- Created reports and documentation following responsible AI practices.
 
 ---
 
-## MM HealthCare Management System
+## 2. MM HealthCare Management System
 
-A web-based healthcare management system designed to manage patients, appointments, and administrative tasks.
+A responsive healthcare management web application developed during Web Development training.
 
-**Technologies**
-
-- HTML
-- CSS
+### Technologies
+- HTML5
+- CSS3
 - Bootstrap
 - JavaScript
 - PHP
 - MySQL
 
----
-
-## Computer Lab Management System
-
-A management system developed for handling computer laboratory resources, maintenance records, and equipment information.
-
----
-
-## Shop Management System
-
-A simple management application developed for handling products and daily business records.
+### Features
+- Patient Registration
+- Appointment Booking
+- Admin Dashboard
+- Doctor Management
+- Secure Login
+- Responsive Design
 
 ---
 
-## Quiz Planner Management System
+## 3. Computer Lab Management System
 
-A project created for organizing quizzes, schedules, and educational activities.
+A university database project developed to manage computer laboratory resources efficiently.
+
+### Technologies
+- JSP
+- Java
+- JDBC
+- MySQL
+- Apache Tomcat
+
+### Features
+- Lab Inventory Management
+- Computer Records
+- Maintenance Tracking
+- User Authentication
+- Database Integration
+- Report Management
 
 ---
 
-## Portfolio Website
+## 4. Quiz Planner Management System
 
-This professional portfolio showcases my projects, internships, technical skills, and certifications.
+A university project designed to organize quizzes and academic schedules.
+
+### Features
+- Quiz Scheduling
+- Student Records
+- Subject Management
+- Result Tracking
+- Database Integration
 
 ---
 
-More projects will be added as I continue my learning journey.
+## 5. Shop Management System
+
+A database-based management system developed as a university project.
+
+### Features
+- Product Management
+- Customer Records
+- Sales Management
+- Inventory Tracking
+- Database Operations
+
+---
+
+## 6. Personal Portfolio Website
+
+This professional portfolio is hosted using GitHub Pages.
+
+### Features
+- Responsive Pages
+- About
+- Skills
+- Certificates
+- Projects
+- Contact Information
