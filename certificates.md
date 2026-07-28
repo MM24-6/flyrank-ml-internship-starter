@@ -1,30 +1,69 @@
+---
+layout: default
+title: Certificates
+---
+
 # Certificates
 
-## AI & Machine Learning
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
 
-- FlyRank AI Fluency Internship
-- AI Fluency – Framework and Foundations
-- AI Capabilities and Limitations
-- Claude Code 101
-- AI Fluency for Small Businesses
+---
+
+## IBM SkillsBuild
+
+- Introduction to Large Language Models
+- Machine Learning
+
+---
+
+## Cisco Networking Academy
+
+- Python Essentials 1
+
+---
+
+## HP LIFE
+
+- AI for Beginners
+
+---
 
 ## Microsoft
 
 - Responsible AI with GitHub Copilot
 - Get Started with Microsoft Teams for Education
 
-## Google
+---
 
-- Google Cloud Skill Badges
+## Anthropic Academy
 
-## Cisco Networking Academy
+- AI Fluency: Framework & Foundations
+- Claude 101
+- Introduction to Claude Cowork
+- AI Capabilities and Limitations
+- AI Fluency for Students
+- AI Fluency for Small Businesses
+- AI Fluency for Educators
+- Teaching AI Fluency
+- AI Fluency for Nonprofits
+- AI Fluency for Builders
+- Claude Code 101
+- Claude Code in Action
+- Claude Platform 101
+- Building with the Claude API
+- Introduction to Model Context Protocol
+- Model Context Protocol: Advanced Topics
+- Introduction to Agent Skills
+- Introduction to Subagents
+- Claude with Amazon Bedrock
+- Claude with Google Cloud Vertex AI
 
-- Python Essentials 1
+---
 
-## Web Development
+## MUET – PITP
 
-- Web Development Certificate
+- Web Developer
 
-## Learning Journey
+---
 
-I continuously complete online courses, certifications, and internships to strengthen my skills in Artificial Intelligence, Machine Learning, Web Development, GitHub, and modern productivity tools.
+I believe continuous learning is the foundation of professional growth. I regularly complete certifications to strengthen my knowledge in Artificial Intelligence, Machine Learning, Web Development, Cloud Technologies, and Modern Development Tools.
