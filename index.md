@@ -147,3 +147,19 @@ Special thanks to the FlyRank ML Internship team for providing the anonymized da
 ---
 
 © 2026 Madiha Manzoor
+
+---
+
+# Explore My Portfolio
+
+To learn more about my work, please visit:
+
+- 👩 [About Me](about.md)
+- 💼 [Projects](projects.md)
+- 🛠 [Skills](skills.md)
+- 🏆 [Certificates](certificates.md)
+- 📩 [Contact](contact.md)
+
+---
+
+Thank you for visiting my portfolio!
