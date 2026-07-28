@@ -9,6 +9,29 @@ title: Home
 
 ---
 
+# 👋 Hi, I'm Madiha Manzoor
+
+### AI Enthusiast | Frontend Developer | BS Computer Science Student
+
+Welcome to my professional portfolio.
+
+I am a Computer Science student passionate about Artificial Intelligence, Machine Learning, Frontend Web Development, and Generative AI. I enjoy building practical projects, learning new technologies, and continuously improving my technical skills through internships, certifications, and real-world experience.
+
+## Quick Highlights
+
+- 🎓 BS Computer Science Student
+- 💼 Frontend Developer Intern at SoftGrowTech
+- 🤖 FlyRank AI Fluency Intern
+- 📜 20+ Professional Certificates
+- 💻 Multiple Academic & AI Projects
+- 🌱 Continuously learning AI, Machine Learning, and Modern Web Development
+
+---
+
+## Featured Project
+
+Below is my Machine Learning research project completed during the FlyRank ML Internship.
+
 # Applied Search Intelligence: Google Search Ranking & Discoverability
 
 ## Abstract
