@@ -9,29 +9,9 @@ title: Certificates
 
 ---
 
-## IBM SkillsBuild
+## MUET – PITP
 
-- Introduction to Large Language Models
-- Machine Learning
-
----
-
-## Cisco Networking Academy
-
-- Python Essentials 1
-
----
-
-## HP LIFE
-
-- AI for Beginners
-
----
-
-## Microsoft
-
-- Responsible AI with GitHub Copilot
-- Get Started with Microsoft Teams for Education
+- Web Developer
 
 ---
 
@@ -60,9 +40,29 @@ title: Certificates
 
 ---
 
-## MUET – PITP
+## IBM SkillsBuild
 
-- Web Developer
+- Introduction to Large Language Models
+- Machine Learning
+
+---
+
+## Cisco Networking Academy
+
+- Python Essentials 1
+
+---
+
+## HP LIFE
+
+- AI for Beginners
+
+---
+
+## Microsoft
+
+- Responsible AI with GitHub Copilot
+- Get Started with Microsoft Teams for Education
 
 ---
 
