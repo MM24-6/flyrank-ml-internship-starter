@@ -9,56 +9,53 @@ title: Skills
 
 ---
 
-## Programming
+---
+layout: default
+title: Skills
+---
 
-- Python
-- C++
+# Technical Skills
+
 - HTML5
 - CSS3
 - Bootstrap
 - JavaScript
-
----
-
-## Artificial Intelligence
-
+- Python
+- C++
+- Git & GitHub
+- GitHub Pages
 - Machine Learning Fundamentals
+- Decision Trees
 - Prompt Engineering
-- Generative AI
 - Claude AI
 - GitHub Copilot
+- Database Fundamentals
+- MySQL
+- JSP
+- PHP
+- API Fundamentals
+- Model Context Protocol (MCP)
+- Generative AI
 - AI Productivity Tools
-
----
-
-## Development Tools
-
-- Git
-- GitHub
-- GitHub Pages
 - Google Colab
 - Microsoft Teams
 
----
-
-## Database
-
-- MySQL
-- Database Fundamentals
 
 ---
 
-## Professional Skills
+# Professional Skills
 
-- Problem Solving
 - Communication
 - Teamwork
-- Critical Thinking
 - Leadership
+- Problem Solving
+- Critical Thinking
 - Time Management
-- Research & Technical Documentation
+- Technical Documentation
+- Research Writing
+- Adaptability
 - Continuous Learning
-
+  
 ---
 
 I continue learning new technologies through internships, certifications, and practical projects.
