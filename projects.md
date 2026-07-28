@@ -1,24 +1,75 @@
+---
+layout: default
+title: Projects
+---
+
 # Projects
 
-## FlyRank ML Internship – Applied Search Intelligence
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
 
-This project focused on using Machine Learning to identify content pages that may need optimization based on search performance data.
+---
 
-### Key Highlights
+## Featured Project
 
-- Decision Tree Model
+### Applied Search Intelligence (FlyRank ML Internship)
+
+A Machine Learning project developed during the FlyRank AI Fluency Internship.
+
+**Key Highlights**
+
+- Decision Tree Classification
 - Search Performance Analysis
 - Data Validation
-- Actionable Recommendations
-- Explainable Machine Learning
+- Explainable AI
+- SEO Optimization Recommendations
 
-### Technologies
+**Tools Used**
 
 - Python
 - Google Colab
 - GitHub
-- Decision Tree Classifier
+- Machine Learning
+- Data Analysis
 
-### Outcome
+---
 
-The project demonstrated how Machine Learning can support SEO and content optimization by helping prioritize pages for review.
+## MM HealthCare Management System
+
+A web-based healthcare management system designed to manage patients, appointments, and administrative tasks.
+
+**Technologies**
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- PHP
+- MySQL
+
+---
+
+## Computer Lab Management System
+
+A management system developed for handling computer laboratory resources, maintenance records, and equipment information.
+
+---
+
+## Shop Management System
+
+A simple management application developed for handling products and daily business records.
+
+---
+
+## Quiz Planner Management System
+
+A project created for organizing quizzes, schedules, and educational activities.
+
+---
+
+## Portfolio Website
+
+This professional portfolio showcases my projects, internships, technical skills, and certifications.
+
+---
+
+More projects will be added as I continue my learning journey.
