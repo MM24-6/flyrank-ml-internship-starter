@@ -5,6 +5,10 @@ title: Projects
 
 # Projects
 
+[Home](index.md) | [About](about.md) | [Experience](experience.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
+
+---
+
 ## 1. FlyRank Machine Learning Project
 **Applied Search Intelligence: Google Search Ranking & Discoverability**
 
