@@ -1,24 +1,64 @@
+---
+layout: default
+title: Skills
+---
+
 # Skills
 
-## Technical Skills
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
+
+---
+
+## Programming
 
 - Python
+- C++
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+---
+
+## Artificial Intelligence
+
 - Machine Learning Fundamentals
-- HTML
-- CSS
-- Git & GitHub
-- Google Colab
-
-## AI Skills
-
 - Prompt Engineering
-- AI Research
-- Responsible AI
+- Generative AI
+- Claude AI
+- GitHub Copilot
 - AI Productivity Tools
 
-## Soft Skills
+---
+
+## Development Tools
+
+- Git
+- GitHub
+- GitHub Pages
+- Google Colab
+- Microsoft Teams
+
+---
+
+## Database
+
+- MySQL
+- Database Fundamentals
+
+---
+
+## Professional Skills
 
 - Problem Solving
-- Teamwork
 - Communication
+- Teamwork
+- Critical Thinking
+- Leadership
+- Time Management
+- Research & Technical Documentation
 - Continuous Learning
+
+---
+
+I continue learning new technologies through internships, certifications, and practical projects.
