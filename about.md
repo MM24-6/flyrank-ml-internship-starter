@@ -26,7 +26,7 @@ Currently pursuing my undergraduate degree while continuously improving my techn
 
 ## Career Objective
 
-My goal is to become a skilled AI and Frontend Developer by gaining practical experience, building impactful projects, and continuously learning modern technologies.
+My goal is to build a successful career in Artificial Intelligence and Frontend Development by continuously improving my technical skills, contributing to real-world projects, and creating innovative solutions through modern technologies.
 
 ---
 
@@ -43,12 +43,15 @@ My goal is to become a skilled AI and Frontend Developer by gaining practical ex
 
 ---
 
-## Interests
+## Areas of Interests
 
 - Artificial Intelligence
 - Machine Learning
 - Frontend Development
 - Web Development
+- Generative AI
+- Prompt Engineering
+- Cloud AI Technologies
 - UI/UX Design
 - Open Source
 - Continuous Learning
