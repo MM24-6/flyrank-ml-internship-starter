@@ -49,4 +49,4 @@ I am always open to internships, collaborations, and opportunities to learn and 
 
 You can download my latest professional resume below.
 
-📄 [Download My CV](Madiha Manzoor CV.pdf)
+📄 [Download My CV](Madiha%20Manzoor%20CV.pdf)
