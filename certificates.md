@@ -66,4 +66,6 @@ title: Certificates
 
 ---
 
-I believe continuous learning is the foundation of professional growth. I regularly complete certifications to strengthen my knowledge in Artificial Intelligence, Machine Learning, Web Development, Cloud Technologies, and Modern Development Tools.
+## Continuous Learning
+
+I believe in continuous learning and regularly complete professional certifications to strengthen my knowledge in Artificial Intelligence, Machine Learning, Frontend Development, and modern software technologies.
