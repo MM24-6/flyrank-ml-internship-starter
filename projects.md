@@ -101,3 +101,9 @@ This professional portfolio is hosted using GitHub Pages.
 - Certificates
 - Projects
 - Contact Information
+
+---
+
+## 7. Upcoming Projects
+
+I am continuously working on new projects through internships, academic learning, and personal practice. This portfolio will be updated regularly with my latest work.
