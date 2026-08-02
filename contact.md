@@ -42,3 +42,11 @@ Sindh, Pakistan
 ---
 
 I am always open to internships, collaborations, and opportunities to learn and grow in AI, Machine Learning, and Software Development.
+
+---
+
+# Download My CV
+
+You can download my latest professional resume below.
+
+📄 [Download My CV](Madiha_Manzoor_CV.pdf)
