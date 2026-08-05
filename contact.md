@@ -55,28 +55,26 @@ You can download my latest professional resume below.
 
 ## Contact Me
 
-If you would like to get in touch, please send me a message using the contact form below.
+Feel free to contact me using the form below.
 
 <form action="https://formsubmit.co/88e98fb77b5946285192fa4596b734d7" method="POST">
 
-<input type="hidden" name="_subject" value="New Portfolio Contact Message">
-
 <input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_subject" value="New Portfolio Message">
 
-**Your Name**
+<p><strong>Your Name</strong></p>
+<input type="text" name="name" placeholder="Enter your full name" required style="width:100%; padding:10px; margin-bottom:15px;">
 
-<input type="text" name="name" required>
+<p><strong>Your Email</strong></p>
+<input type="email" name="email" placeholder="Enter your email address" required style="width:100%; padding:10px; margin-bottom:15px;">
 
-**Your Email**
+<p><strong>Your Message</strong></p>
+<textarea name="message" placeholder="Write your message here..." rows="6" required style="width:100%; padding:10px; margin-bottom:20px;"></textarea>
 
-<input type="email" name="email" required>
-
-**Your Message**
-
-<textarea name="message" rows="5" required></textarea>
-
-<br><br>
-
-<button type="submit">Send Message</button>
+<button type="submit" style="background:#2563eb; color:white; padding:12px 25px; border:none; border-radius:6px; cursor:pointer;">
+📩 Send Message
+</button>
 
 </form>
+
+
