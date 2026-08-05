@@ -50,3 +50,33 @@ I am always open to internships, collaborations, and opportunities to learn and 
 You can download my latest professional resume below.
 
 📄 [Download My CV](Madiha%20Manzoor%20CV.pdf)
+
+---
+
+## Contact Me
+
+If you would like to get in touch, please send me a message using the contact form below.
+
+<form action="https://formsubmit.co/madihamanzoor4444@gmail.com" method="POST">
+
+<input type="hidden" name="_subject" value="New Portfolio Contact Message">
+
+<input type="hidden" name="_captcha" value="false">
+
+**Your Name**
+
+<input type="text" name="name" required>
+
+**Your Email**
+
+<input type="email" name="email" required>
+
+**Your Message**
+
+<textarea name="message" rows="5" required></textarea>
+
+<br><br>
+
+<button type="submit">Send Message</button>
+
+</form>
