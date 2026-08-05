@@ -62,6 +62,8 @@ Feel free to contact me using the form below.
 <input type="hidden" name="_captcha" value="false">
 <input type="hidden" name="_subject" value="New Portfolio Message">
 
+<input type="hidden" name="_next" value="https://mm24-6.github.io/flyrank-ml-internship-starter/thank-you/">
+
 <p><strong>Your Name</strong></p>
 <input type="text" name="name" placeholder="Enter your full name" required style="width:100%; padding:10px; margin-bottom:15px;">
 
