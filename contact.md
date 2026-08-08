@@ -19,19 +19,19 @@ I am **Madiha Manzoor**, a BS Computer Science student who is passionate about A
 
 ## Email
 
-📧 madihamanzoor4444@gmail.com
+📧 [madihamanzoor4444@gmail.com](mailto:madihamanzoor4444@gmail.com)
 
 ---
 
 ## GitHub
 
-https://github.com/MM24-6
+[github.com/MM24-6](https://github.com/MM24-6)
 
 ---
 
 ## LinkedIn
 
-https://www.linkedin.com/in/madiha-manzoor-04464931b
+[linkedin.com/in/madiha-manzoor-04464931b](https://www.linkedin.com/in/madiha-manzoor-04464931b)
 
 ---
 
@@ -62,7 +62,7 @@ Feel free to contact me using the form below.
 <input type="hidden" name="_captcha" value="false">
 <input type="hidden" name="_subject" value="New Portfolio Message">
 
-<input type="hidden" name="_next" value="https://mm24-6.github.io/flyrank-ml-internship-starter/thank-you/">
+<input type="hidden" name="_next" value="https://mm24-6.github.io/flyrank-ml-internship-starter/thank-you.html">
 
 <p><strong>Your Name</strong></p>
 <input type="text" name="name" placeholder="Enter your full name" required style="width:100%; padding:10px; margin-bottom:15px;">
@@ -78,5 +78,3 @@ Feel free to contact me using the form below.
 </button>
 
 </form>
-
-
