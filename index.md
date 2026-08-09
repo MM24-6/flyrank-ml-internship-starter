@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Madiha Manzoor | Computer Science Student & AI/ML Intern
+description: Madiha Manzoor is a Computer Science student, Machine Learning Engineering Intern, and Frontend Developer Intern building practical projects in AI, Machine Learning, and web development.
 ---
 
 # Madiha Manzoor
