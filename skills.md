@@ -9,11 +9,6 @@ title: Skills
 
 ---
 
----
-layout: default
-title: Skills
----
-
 # Technical Skills
 
 - HTML5
@@ -40,7 +35,6 @@ title: Skills
 - Google Colab
 - Microsoft Teams
 
-
 ---
 
 # Professional Skills
@@ -55,7 +49,7 @@ title: Skills
 - Research Writing
 - Adaptability
 - Continuous Learning
-  
+
 ---
 
 I continue learning new technologies through internships, certifications, and practical projects.
