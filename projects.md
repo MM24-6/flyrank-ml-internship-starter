@@ -16,8 +16,14 @@ title: Projects
 - Developed a Decision Tree model using search performance data.
 - Worked with impressions, average position, scroll events and CTR.
 - Compared model performance with a baseline approach.
-- Achieved approximately 89% prediction accuracy.
+- Achieved approximately 89% measured accuracy.
 - Created reports and documentation following responsible AI practices.
+
+**Project Repository:**  
+[View on GitHub](https://github.com/MM24-6/flyrank-ml-internship-starter)
+
+**Research Paper:**  
+[View the deployed research paper](capstone.md)
 
 ---
 
@@ -102,8 +108,20 @@ This professional portfolio is hosted using GitHub Pages.
 - Projects
 - Contact Information
 
+**Live Website:**  
+[Visit My Portfolio](index.md)
+
+**Source Code:**  
+[View Portfolio on GitHub](https://github.com/MM24-6/flyrank-ml-internship-starter)
+
 ---
 
 ## 7. Upcoming Projects
 
 I am continuously working on new projects through internships, academic learning, and personal practice. This portfolio will be updated regularly with my latest work.
+
+---
+
+## Project Evidence
+
+Selected projects include links to their available repositories or live pages. Additional screenshots, demos, and project documentation will be added as they become available.
