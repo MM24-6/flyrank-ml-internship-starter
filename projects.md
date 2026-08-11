@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Projects | Madiha Manzoor
 ---
 
 # Projects
