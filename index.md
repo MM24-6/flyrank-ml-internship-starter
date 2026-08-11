@@ -6,7 +6,7 @@ description: Madiha Manzoor is a Computer Science student, Machine Learning Engi
 
 # Madiha Manzoor
 
-[Home](index.md) | [About](about.md) | [Experience](experience.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
+[Home](index.html) | [About](about.html) | [Experience](experience.html) | [Projects](projects.html) | [Skills](skills.html) | [Certificates](certificates.html) | [Contact](contact.html)
 
 ---
 
@@ -45,7 +45,7 @@ The project explored whether a Decision Tree model could help identify content p
 
 The results are observational and intended to support human decision-making rather than automated publishing.
 
-For more details about my technical work and projects, visit the **[Projects](projects.md)** page.
+For more details about my technical work and projects, visit the **[Projects](projects.html)** page.
 
 ---
 
@@ -53,12 +53,12 @@ For more details about my technical work and projects, visit the **[Projects](pr
 
 To learn more about my work, please visit:
 
-- 👩 [About Me](about.md)
-- 💼 [Experience](experience.md)
-- 📂 [Projects](projects.md)
-- 🛠️ [Skills](skills.md)
-- 🏆 [Certificates](certificates.md)
-- 📩 [Contact](contact.md)
+- 👩 [About Me](about.html)
+- 💼 [Experience](experience.html)
+- 📂 [Projects](projects.html)
+- 🛠️ [Skills](skills.html)
+- 🏆 [Certificates](certificates.html)
+- 📩 [Contact](contact.html)
 
 ---
 
