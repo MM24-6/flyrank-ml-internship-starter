@@ -6,6 +6,7 @@ title: Certificates
 # Certificates
 
 [Home](index.html) | [About](about.html) | [Experience](experience.html) | [Projects](projects.html) | [Skills](skills.html) | [Certificates](certificates.html) | [Contact](contact.html)
+
 ---
 
 ## MUET – PITP
