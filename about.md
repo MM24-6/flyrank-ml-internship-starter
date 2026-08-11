@@ -5,8 +5,7 @@ title: About
 
 # About Me
 
-[Home](index.md) | [About](about.md) | [Experience](experience.md) | [Projects](projects.md) | [Skills](skills.md) | [Certificates](certificates.md) | [Contact](contact.md)
-
+[Home](index.html) | [About](about.html) | [Experience](experience.html) | [Projects](projects.html) | [Skills](skills.html) | [Certificates](certificates.html) | [Contact](contact.html)
 
 ## Hello, I'm Madiha Manzoor.
 
